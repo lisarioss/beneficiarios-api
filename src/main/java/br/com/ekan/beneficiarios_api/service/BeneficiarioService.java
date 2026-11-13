@@ -1,4 +1,3 @@
-
 package br.com.ekan.beneficiarios_api.service;
 
 import br.com.ekan.beneficiarios_api.dto.BeneficiarioRequestDTO;
